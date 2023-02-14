@@ -1,10 +1,12 @@
 ---
-description: Welcome to Soham's personal knowledege database / Second Brain
+description: welcome page
 ---
 
-# Page 1
+# Welcome to Soham's Gitbook
 
-```javascript
-console.log("Hello World");
+Welcome to Soham's personal knowledge database / Second Brain\
 
+
+```
+Console.log("hello world");
 ```
